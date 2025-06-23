@@ -1,0 +1,10 @@
+namespace: helm-ns
+replica: 2
+image: 
+  imageName: harshyadav02/simple-project
+  tag: latest
+
+service:
+  port: 8081
+  type: NodePort
+  targetPort: 8081
