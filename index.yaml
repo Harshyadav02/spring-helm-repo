@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  simple-spring-boot-project:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-06-23T18:06:55.247043727+05:30"
+    description: A Helm chart for Kubernetes
+    digest: a9c0dcb9de89a2f04b847097a9b7908fce206a699bfff21e9aa3274e511b09c1
+    name: simple-spring-boot-project
+    type: application
+    urls:
+    - https://harshyadav02.github.io/Simple-Spring-Boot-Project/simple-spring-boot-project-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-06-23T18:06:55.245439201+05:30"
