@@ -1,4 +1,4 @@
-namespace: helm-ns
+
 replica: 2
 image: 
   imageName: harshyadav02/simple-project
